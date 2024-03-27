@@ -4,7 +4,7 @@
 
 This project showcases my ability to develop user-friendly web applications using modern JavaScript frameworks, as well as my understanding of React.js fundamentals and React hooks. It highlights my skills in front-end development, including UI/UX design and state management, and demonstrates my commitment to delivering practical and innovative solutions.
 
-## Feacture : 
+## Feature : 
 ### Customizable String: Generate random strings with customizable options:
    ### Include integers in your string.
    ### Include special characters in your string.
